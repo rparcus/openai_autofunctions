@@ -22,8 +22,7 @@ defmodule Autofunctions.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:req, "~> 0.3.9"},
-      {:kino, "~> 0.9.4"}
+      {:jason, "~> 1.4"}
     ]
   end
 
